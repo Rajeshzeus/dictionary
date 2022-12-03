@@ -3,7 +3,7 @@
 
 This is a basic python app workes in "Terminal" or "CMD" port
 
-## Prerequisites
+## Prerequests
 
 We need to download the "data.json" also along with the "main.py"
 
